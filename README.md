@@ -92,6 +92,9 @@ source venv/bin/activate
 # Step 3: Install dependencies
 pip install -r requirements.txt
 
+#Step 4: 🚀 Run Streamlit App
+streamlit run streamlit_app.py
+
 ## 🗂 Files Included
 
 - `model_training.ipynb` – End-to-end code for preprocessing, model training, and evaluation.
