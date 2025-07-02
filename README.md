@@ -61,9 +61,36 @@ The model has been deployed using **Streamlit**, allowing users to:
 - Upload custom feature inputs of csv/.xlxs file.
 - Receive churn predictions in real-time.
 
-🔗 **Live Demo:** [Insert your deployed Streamlit app URL here]
+🔗 **Live Demo:** https://churn-preditor-app.streamlit.app/
 
 ---
+
+## 🖥️ Clone and Run Locally
+
+Follow these steps to set up the project on your local machine:
+
+### ✅ Prerequisites
+
+- Python 3.7+
+- pip
+- Virtual environment (recommended)
+
+### 📦 Installation
+
+```bash
+# Step 1: Clone the repository
+git clone https://github.com/your-username/deepq-churn-prediction.git
+cd deepq-churn-prediction
+
+# Step 2: Create and activate virtual environment (optional but recommended)
+python -m venv venv
+# On Windows
+venv\Scripts\activate
+# On macOS/Linux
+source venv/bin/activate
+
+# Step 3: Install dependencies
+pip install -r requirements.txt
 
 ## 🗂 Files Included
 
