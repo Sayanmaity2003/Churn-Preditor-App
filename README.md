@@ -58,7 +58,7 @@ This repository contains the solution for Assignment 1 of the AI Engineer Intern
 ## 🌐 Deployment
 
 The model has been deployed using **Streamlit**, allowing users to:
-- Enter custom feature inputs.
+- Upload custom feature inputs of csv/.xlxs file.
 - Receive churn predictions in real-time.
 
 🔗 **Live Demo:** [Insert your deployed Streamlit app URL here]
@@ -68,7 +68,7 @@ The model has been deployed using **Streamlit**, allowing users to:
 ## 🗂 Files Included
 
 - `model_training.ipynb` – End-to-end code for preprocessing, model training, and evaluation.
-- `churn_model.pkl` – Saved model for deployment.
+- `churn_model.pkl` – Saved model on drive for deployment.
 - `streamlit_app.py` – Streamlit script to serve predictions.
 - `Churn_Prediction_Presentation.pdf` – Summary of insights, process, and evaluation.
 - `README.md` – Project overview and documentation.
@@ -87,8 +87,8 @@ The model has been deployed using **Streamlit**, allowing users to:
 ## 📬 Contact
 
 **Author:** Sayan Maity  
-**Email:** [your.email@example.com]  
-**LinkedIn/GitHub:** [Optional links here]
+**Email:** sayanmaity2003@gmail.com 
+**LinkedIn:** [[Optional links here]](https://www.linkedin.com/in/sayan-maity-718974253)
 
 ---
 
