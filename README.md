@@ -95,7 +95,7 @@ pip install -r requirements.txt
 ## 🗂 Files Included
 
 - `model_training.ipynb` – End-to-end code for preprocessing, model training, and evaluation.
-- `churn_model.pkl` – Saved model on drive for deployment.
+- `churn_model.pkl` – Saved model on drive for deployment(Download from GoogleDrive).
 - `streamlit_app.py` – Streamlit script to serve predictions.
 - `Churn_Prediction_Presentation.pdf` – Summary of insights, process, and evaluation.
 - `README.md` – Project overview and documentation.
