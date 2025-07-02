@@ -51,8 +51,6 @@ This repository contains the solution for Assignment 1 of the AI Engineer Intern
 | Accuracy        |         |         | **0.90** |
 | ROC-AUC Score   |         |         | **0.946** |
 
-> The model demonstrates excellent performance and balance across both classes, thanks to SMOTE and careful feature handling.
-
 ---
 
 ## 🌐 Deployment
